@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+    <line>
+      <![CDATA[open Browser]]>
+    </line>
+    <line>
+      <![CDATA[Login]]>
+    </line>
+    <line>
+      <![CDATA[delete customer]]>
+    </line>
+    <line>
+      <![CDATA[logout]]>
+    </line>
+    <line>
+      <![CDATA[Login]]>
+    </line>
+    <line>
+      <![CDATA[register customer]]>
+    </line>
+    <line>
+      <![CDATA[logout]]>
+    </line>
+    <line>
+      <![CDATA[Login]]>
+    </line>
+    <line>
+      <![CDATA[edit customer]]>
+    </line>
+    <line>
+      <![CDATA[logout]]>
+    </line>
+    <line>
+      <![CDATA[Login]]>
+    </line>
+    <line>
+      <![CDATA[edit customer]]>
+    </line>
+    <line>
+      <![CDATA[logout]]>
+    </line>
+    <line>
+      <![CDATA[close Browser]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="110" started-at="2021-09-17T18:23:45Z" finished-at="2021-09-17T18:23:45Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="110" started-at="2021-09-17T18:23:45Z" finished-at="2021-09-17T18:23:45Z">
+      <class name="com.actitime.test.CustomerModule1">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.actitime.test.CustomerModule1@8e0379d]" name="openBrowser" is-config="true" duration-ms="18" started-at="2021-09-17T18:23:45Z" finished-at="2021-09-17T18:23:45Z">
+          <reporter-output>
+            <line>
+              <![CDATA[open Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.actitime.test.CustomerModule1@8e0379d]" name="login" is-config="true" duration-ms="1" started-at="2021-09-17T18:23:45Z" finished-at="2021-09-17T18:23:45Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Login]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="deleteCustomer()[pri:0, instance:com.actitime.test.CustomerModule1@8e0379d]" name="deleteCustomer" duration-ms="7" started-at="2021-09-17T18:23:45Z" finished-at="2021-09-17T18:23:45Z">
+          <reporter-output>
+            <line>
+              <![CDATA[delete customer]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- deleteCustomer -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:com.actitime.test.CustomerModule1@8e0379d]" name="logout" is-config="true" duration-ms="1" started-at="2021-09-17T18:23:45Z" finished-at="2021-09-17T18:23:45Z">
+          <reporter-output>
+            <line>
+              <![CDATA[logout]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.actitime.test.CustomerModule1@8e0379d]" name="login" is-config="true" duration-ms="0" started-at="2021-09-17T18:23:45Z" finished-at="2021-09-17T18:23:45Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Login]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="registerCustomer()[pri:0, instance:com.actitime.test.CustomerModule1@8e0379d]" name="registerCustomer" duration-ms="2" started-at="2021-09-17T18:23:45Z" finished-at="2021-09-17T18:23:45Z">
+          <reporter-output>
+            <line>
+              <![CDATA[register customer]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- registerCustomer -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:com.actitime.test.CustomerModule1@8e0379d]" name="logout" is-config="true" duration-ms="1" started-at="2021-09-17T18:23:45Z" finished-at="2021-09-17T18:23:45Z">
+          <reporter-output>
+            <line>
+              <![CDATA[logout]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.actitime.test.CustomerModule1@8e0379d]" name="login" is-config="true" duration-ms="0" started-at="2021-09-17T18:23:45Z" finished-at="2021-09-17T18:23:45Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Login]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="editCustomer()[pri:1, instance:com.actitime.test.CustomerModule1@8e0379d]" name="editCustomer" duration-ms="3" started-at="2021-09-17T18:23:45Z" finished-at="2021-09-17T18:23:45Z">
+          <reporter-output>
+            <line>
+              <![CDATA[edit customer]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- editCustomer -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:com.actitime.test.CustomerModule1@8e0379d]" name="logout" is-config="true" duration-ms="0" started-at="2021-09-17T18:23:45Z" finished-at="2021-09-17T18:23:45Z">
+          <reporter-output>
+            <line>
+              <![CDATA[logout]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.actitime.test.CustomerModule1@8e0379d]" name="login" is-config="true" duration-ms="0" started-at="2021-09-17T18:23:45Z" finished-at="2021-09-17T18:23:45Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Login]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="editCustomer()[pri:1, instance:com.actitime.test.CustomerModule1@8e0379d]" name="editCustomer" duration-ms="1" started-at="2021-09-17T18:23:45Z" finished-at="2021-09-17T18:23:45Z">
+          <reporter-output>
+            <line>
+              <![CDATA[edit customer]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- editCustomer -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.actitime.test.CustomerModule1@8e0379d]" name="closeBrowser" is-config="true" duration-ms="0" started-at="2021-09-17T18:23:45Z" finished-at="2021-09-17T18:23:45Z">
+          <reporter-output>
+            <line>
+              <![CDATA[close Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:com.actitime.test.CustomerModule1@8e0379d]" name="logout" is-config="true" duration-ms="0" started-at="2021-09-17T18:23:45Z" finished-at="2021-09-17T18:23:45Z">
+          <reporter-output>
+            <line>
+              <![CDATA[logout]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- com.actitime.test.CustomerModule1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
